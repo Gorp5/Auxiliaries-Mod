@@ -1,0 +1,88 @@
+{
+  "variants": {
+    "axis=x,powered=false,shape=straight": {
+      "model": "auxil:block/powered_tunnel/straight_unpowered"
+    },
+    "axis=z,powered=false,shape=straight": {
+      "model": "auxil:block/powered_tunnel/straight_unpowered",
+      "y": 90
+    },
+    "axis=x,powered=true,shape=straight": {
+      "model": "auxil:block/powered_tunnel/straight_powered"
+    },
+    "axis=z,powered=true,shape=straight": {
+      "model": "auxil:block/powered_tunnel/straight_powered",
+      "y": 90
+    },
+    "axis=x,powered=false,shape=window": {
+      "model": "auxil:block/powered_tunnel/window_unpowered"
+    },
+    "axis=z,powered=false,shape=window": {
+      "model": "auxil:block/powered_tunnel/window_unpowered",
+      "y": 90
+    },
+    "axis=x,powered=true,shape=window": {
+      "model": "auxil:block/powered_tunnel/window_powered"
+    },
+    "axis=z,powered=true,shape=window": {
+      "model": "auxil:block/powered_tunnel/window_powered",
+      "y": 90
+    },
+    "axis=x,powered=false,shape=closed": {
+      "model": "auxil:block/powered_tunnel/straight_unpowered"
+    },
+    "axis=z,powered=false,shape=closed": {
+      "model": "auxil:block/powered_tunnel/straight_unpowered",
+      "y": 90
+    },
+    "axis=x,powered=true,shape=closed": {
+      "model": "auxil:block/powered_tunnel/straight_powered"
+    },
+    "axis=z,powered=true,shape=closed": {
+      "model": "auxil:block/powered_tunnel/straight_powered",
+      "y": 90
+    },
+    "axis=x,powered=false,shape=t_left": {
+      "model": "auxil:block/powered_tunnel/t_left_unpowered"
+    },
+    "axis=z,powered=false,shape=t_left": {
+      "model": "auxil:block/powered_tunnel/t_left_unpowered",
+      "y": 90
+    },
+    "axis=x,powered=true,shape=t_left": {
+      "model": "auxil:block/powered_tunnel/t_left_powered"
+    },
+    "axis=z,powered=true,shape=t_left": {
+      "model": "auxil:block/powered_tunnel/t_left_powered",
+      "y": 90
+    },
+    "axis=x,powered=false,shape=t_right": {
+      "model": "auxil:block/powered_tunnel/t_right_unpowered"
+    },
+    "axis=z,powered=false,shape=t_right": {
+      "model": "auxil:block/powered_tunnel/t_right_unpowered",
+      "y": 90
+    },
+    "axis=x,powered=true,shape=t_right": {
+      "model": "auxil:block/powered_tunnel/t_right_powered"
+    },
+    "axis=z,powered=true,shape=t_right": {
+      "model": "auxil:block/powered_tunnel/t_right_powered",
+      "y": 90
+    },
+    "axis=x,powered=false,shape=cross": {
+      "model": "auxil:block/powered_tunnel/cross_unpowered"
+    },
+    "axis=z,powered=false,shape=cross": {
+      "model": "auxil:block/powered_tunnel/cross_unpowered",
+      "y": 90
+    },
+    "axis=x,powered=true,shape=cross": {
+      "model": "auxil:block/powered_tunnel/cross_powered"
+    },
+    "axis=z,powered=true,shape=cross": {
+      "model": "auxil:block/powered_tunnel/cross_powered",
+      "y": 90
+    }
+  }
+}

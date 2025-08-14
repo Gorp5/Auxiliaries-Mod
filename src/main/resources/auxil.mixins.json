@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.gorp.auxil.foundation.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "auxil.refmap.json",
+  "mixins": [
+    "MixinBlastEnchantment",
+    "MixinContaption"
+  ],
+  "minVersion": "0.8"
+}

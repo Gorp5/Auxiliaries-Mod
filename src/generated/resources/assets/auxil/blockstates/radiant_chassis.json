@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "axis=x,powered=false": {
+      "model": "auxil:block/radiant_chassis/block"
+    },
+    "axis=y,powered=false": {
+      "model": "auxil:block/radiant_chassis/block"
+    },
+    "axis=z,powered=false": {
+      "model": "auxil:block/radiant_chassis/block"
+    },
+    "axis=x,powered=true": {
+      "model": "auxil:block/radiant_chassis/block_powered"
+    },
+    "axis=y,powered=true": {
+      "model": "auxil:block/radiant_chassis/block_powered"
+    },
+    "axis=z,powered=true": {
+      "model": "auxil:block/radiant_chassis/block_powered"
+    }
+  }
+}

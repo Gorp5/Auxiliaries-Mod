@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=north,overflow=false,powered=false": {
+      "model": "auxil:block/etcher/unpowered",
+      "y": 90
+    },
+    "facing=south,overflow=false,powered=false": {
+      "model": "auxil:block/etcher/unpowered",
+      "y": 270
+    },
+    "facing=west,overflow=false,powered=false": {
+      "model": "auxil:block/etcher/unpowered"
+    },
+    "facing=east,overflow=false,powered=false": {
+      "model": "auxil:block/etcher/unpowered",
+      "y": 180
+    },
+    "facing=north,overflow=true,powered=false": {
+      "model": "auxil:block/etcher/unpowered_overflow",
+      "y": 90
+    },
+    "facing=south,overflow=true,powered=false": {
+      "model": "auxil:block/etcher/unpowered_overflow",
+      "y": 270
+    },
+    "facing=west,overflow=true,powered=false": {
+      "model": "auxil:block/etcher/unpowered_overflow"
+    },
+    "facing=east,overflow=true,powered=false": {
+      "model": "auxil:block/etcher/unpowered_overflow",
+      "y": 180
+    },
+    "facing=north,overflow=false,powered=true": {
+      "model": "auxil:block/etcher/powered",
+      "y": 90
+    },
+    "facing=south,overflow=false,powered=true": {
+      "model": "auxil:block/etcher/powered",
+      "y": 270
+    },
+    "facing=west,overflow=false,powered=true": {
+      "model": "auxil:block/etcher/powered"
+    },
+    "facing=east,overflow=false,powered=true": {
+      "model": "auxil:block/etcher/powered",
+      "y": 180
+    },
+    "facing=north,overflow=true,powered=true": {
+      "model": "auxil:block/etcher/powered_overflow",
+      "y": 90
+    },
+    "facing=south,overflow=true,powered=true": {
+      "model": "auxil:block/etcher/powered_overflow",
+      "y": 270
+    },
+    "facing=west,overflow=true,powered=true": {
+      "model": "auxil:block/etcher/powered_overflow"
+    },
+    "facing=east,overflow=true,powered=true": {
+      "model": "auxil:block/etcher/powered_overflow",
+      "y": 180
+    }
+  }
+}

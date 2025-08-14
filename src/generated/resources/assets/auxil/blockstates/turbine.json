@@ -1,0 +1,56 @@
+{
+  "variants": {
+    "facing=down,waterlogged=false": {
+      "model": "auxil:block/turbine/block",
+      "x": 180
+    },
+    "facing=up,waterlogged=false": {
+      "model": "auxil:block/turbine/block"
+    },
+    "facing=north,waterlogged=false": {
+      "model": "auxil:block/turbine/block",
+      "x": 90
+    },
+    "facing=south,waterlogged=false": {
+      "model": "auxil:block/turbine/block",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west,waterlogged=false": {
+      "model": "auxil:block/turbine/block",
+      "x": 90,
+      "y": 270
+    },
+    "facing=east,waterlogged=false": {
+      "model": "auxil:block/turbine/block",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down,waterlogged=true": {
+      "model": "auxil:block/turbine/block",
+      "x": 180
+    },
+    "facing=up,waterlogged=true": {
+      "model": "auxil:block/turbine/block"
+    },
+    "facing=north,waterlogged=true": {
+      "model": "auxil:block/turbine/block",
+      "x": 90
+    },
+    "facing=south,waterlogged=true": {
+      "model": "auxil:block/turbine/block",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west,waterlogged=true": {
+      "model": "auxil:block/turbine/block",
+      "x": 90,
+      "y": 270
+    },
+    "facing=east,waterlogged=true": {
+      "model": "auxil:block/turbine/block",
+      "x": 90,
+      "y": 90
+    }
+  }
+}
